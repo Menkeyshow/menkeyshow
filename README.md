@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+f u cn rd ths, u cn gt a gd jb n sftwr tstng :)
 <!--
 **Menkeyshow/menkeyshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
